@@ -1,5 +1,0 @@
-k=matrix(1:9,3,3,byrow=T)
-print(k)
-h=apply(k,2,rev)
-h=t(h)
-print(h)
